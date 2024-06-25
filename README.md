@@ -1,4 +1,5 @@
 # bmi-code
+
 def calculate_bmi():
     unit_system = input("Choose the unit system: \n1. Metric (cm, kg) \n2. Imperial (inches, lbs) \nEnter 1 or 2: ")
 
@@ -28,3 +29,4 @@ def calculate_bmi():
                 print("You are obese")
 
 calculate_bmi()
+### END
